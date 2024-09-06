@@ -5,7 +5,6 @@ go 1.13
 require (
 	github.com/BurntSushi/toml v1.1.0 // indirect
 	github.com/emirpasic/gods v1.12.0
-	github.com/go-redis/redis/v8 v8.11.5
 	github.com/golang/mock v1.3.1
 	github.com/google/uuid v1.3.0
 	github.com/json-iterator/go v1.1.12
@@ -17,7 +16,9 @@ require (
 	github.com/tidwall/gjson v1.13.0
 	go.uber.org/atomic v1.5.1
 	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f // indirect
+	golang.org/x/tools v0.0.0-20201224043029-2b0845dc783e // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
+	gopkg.in/yaml.v2 v2.4.0 // indirect
 	stathat.com/c/consistent v1.0.0
 )
